@@ -11,6 +11,9 @@
   <a href="https://github.com/Amit01-developer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.hackerrank.com/profile/Mr_amit">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
 </p>
 
 ---
@@ -39,6 +42,21 @@
 
 ---
 
+## 🏆 HackerRank
+
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/Mr_amit">
+    <img src="https://img.shields.io/badge/HackerRank-Mr__amit-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile" />
+  </a>
+</p>
+
+<p align="center">
+  Solving problems on <strong>HackerRank</strong> — check out my solutions and rankings!<br/>
+  🔗 <a href="https://www.hackerrank.com/profile/Mr_amit">hackerrank.com/profile/Mr_amit</a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -56,6 +74,7 @@
 
 - 💼 **LinkedIn:** [amit-chaurasiya-575948330](https://www.linkedin.com/in/amit-chaurasiya-575948330)
 - 🐙 **GitHub:** [@Amit01-developer](https://github.com/Amit01-developer)
+- 🏆 **HackerRank:** [Mr_amit](https://www.hackerrank.com/profile/Mr_amit)
 
 ---
 
