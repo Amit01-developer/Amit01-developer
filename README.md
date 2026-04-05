@@ -27,6 +27,15 @@
 
 ---
 
+## 💼 Experience
+
+- Volunteer (2023) — National Council for Science & Technology Communication
+- Web Development Intern (2025) — Vinshr Technologies
+- Founder (2025) — HACKOLEAN (HacktoLearn 24-hour online hackathon)
+- Campus Ambassador (2026) — Unstop
+
+---
+
 ## 🛠️ Tech & Tools
 
 <p>
