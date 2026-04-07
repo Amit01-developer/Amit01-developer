@@ -105,10 +105,6 @@ open_to     : Collaborations · Projects · Hackathons
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/529026a6-3214-416b-a63b-bfe386ac209d" alt="Microsoft Learn Trophies & Learning Paths" />
-</p>
-
 ---
 
 ## 📊 GitHub Stats
