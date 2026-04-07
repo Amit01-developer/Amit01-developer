@@ -12,6 +12,9 @@
   <a href="https://www.hackerrank.com/profile/Mr_amit">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
+  <a href="https://learn.microsoft.com/en-in/users/amitchaurasiya-2798/?tab=tab-learning-paths#trophies-section">
+    <img src="https://img.shields.io/badge/Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=Amit01-developer&style=for-the-badge&color=6a11cb&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
@@ -118,6 +121,23 @@ open_to     : Collaborations · Projects · Hackathons
 
 ---
 
+## 🎓 Microsoft Learn
+
+<p align="center">
+  <a href="https://learn.microsoft.com/en-in/users/amitchaurasiya-2798/?tab=tab-learning-paths#trophies-section">
+    <img src="https://img.shields.io/badge/Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn Profile" />
+  </a>
+</p>
+
+<p align="center">
+  🏅 <strong>Trophies &amp; Learning Paths</strong> — View all earned trophies and completed learning paths on my Microsoft Learn profile:<br/>
+  <a href="https://learn.microsoft.com/en-in/users/amitchaurasiya-2798/?tab=tab-learning-paths#trophies-section">
+    https://learn.microsoft.com/en-in/users/amitchaurasiya-2798/
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -140,7 +160,8 @@ open_to     : Collaborations · Projects · Hackathons
 <p align="center">
   <a href="https://www.linkedin.com/in/amit-chaurasiya-575948330">💼 LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://github.com/Amit01-developer">🐙 GitHub</a> &nbsp;·&nbsp;
-  <a href="https://www.hackerrank.com/profile/Mr_amit">🏆 HackerRank</a>
+  <a href="https://www.hackerrank.com/profile/Mr_amit">🏆 HackerRank</a> &nbsp;·&nbsp;
+  <a href="https://learn.microsoft.com/en-in/users/amitchaurasiya-2798/">🎓 Microsoft Learn</a>
 </p>
 
 <div align="center">
