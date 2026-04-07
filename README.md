@@ -125,6 +125,12 @@ open_to     : Collaborations · Projects · Hackathons
 
 <p align="center">
   <a href="https://learn.microsoft.com/en-in/users/amitchaurasiya-2798/?tab=tab-learning-paths#trophies-section">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg" alt="Microsoft" width="180" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://learn.microsoft.com/en-in/users/amitchaurasiya-2798/?tab=tab-learning-paths#trophies-section">
     <img src="https://img.shields.io/badge/Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn Profile" />
   </a>
 </p>
