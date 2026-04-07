@@ -105,13 +105,8 @@ open_to     : Collaborations · Projects · Hackathons
   </a>
 </p>
 
-<!-- Microsoft Learn Trophy Badges -->
 <p align="center">
-  <img src="https://learn.microsoft.com/en-us/media/learn/icons/badge-trophy-64x64.png" alt="MS Learn Trophy" width="48" />
-  &nbsp;
-  <img src="https://learn.microsoft.com/en-us/media/learn/icons/badge-trophy-64x64.png" alt="MS Learn Trophy" width="48" />
-  &nbsp;
-  <img src="https://learn.microsoft.com/en-us/media/learn/icons/badge-trophy-64x64.png" alt="MS Learn Trophy" width="48" />
+  <img src="https://github.com/user-attachments/assets/529026a6-3214-416b-a63b-bfe386ac209d" alt="Microsoft Learn Trophies & Learning Paths" />
 </p>
 
 ---
