@@ -9,8 +9,14 @@
   <a href="https://github.com/Amit01-developer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://x.com/MrChaurasiya12">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
   <a href="https://www.hackerrank.com/profile/Mr_amit">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://htl-community-page.vercel.app/">
+    <img src="https://img.shields.io/badge/HTL%20Community-6a11cb?style=for-the-badge&logo=vercel&logoColor=white" alt="HTL Community" />
   </a>
   <a href="https://learn.microsoft.com/en-in/users/amitchaurasiya-2798/?tab=tab-learning-paths#trophies-section">
     <img src="https://img.shields.io/badge/Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn" />
@@ -31,6 +37,7 @@
 ```yaml
 name        : Amit Chaurasiya
 degree      : B.Tech — Computer Science & Engineering
+role        : Founder — HTL Community
 interests   : Web Dev · Competitive Programming · Hackathons
 motto       : "Bhulne ki bimaari, Practical Banda — always learning by doing!"
 open_to     : Collaborations · Projects · Hackathons
@@ -166,8 +173,10 @@ open_to     : Collaborations · Projects · Hackathons
 <p align="center">
   <a href="https://www.linkedin.com/in/amit-chaurasiya-575948330">💼 LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://github.com/Amit01-developer">🐙 GitHub</a> &nbsp;·&nbsp;
+  <a href="https://x.com/MrChaurasiya12">𝕏 X</a> &nbsp;·&nbsp;
   <a href="https://www.hackerrank.com/profile/Mr_amit">🏆 HackerRank</a> &nbsp;·&nbsp;
-  <a href="https://learn.microsoft.com/en-in/users/amitchaurasiya-2798/">🎓 Microsoft Learn</a>
+  <a href="https://learn.microsoft.com/en-in/users/amitchaurasiya-2798/">🎓 Microsoft Learn</a> &nbsp;·&nbsp;
+  <a href="https://htl-community-page.vercel.app/">🚀 HTL Community (Founder)</a>
 </p>
 
 <div align="center">
