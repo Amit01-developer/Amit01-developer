@@ -27,7 +27,24 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/42574b31-49dc-4c63-995e-1a9b12713803" alt="Amit Chaurasiya" width="300" />
+  <a href="https://github.com/Amit01-developer?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=Amit01-developer&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/Mr_amit">
+    <img src="https://img.shields.io/badge/HackerRank-Mr__amit-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Amit01-developer">
+    <img src="https://github-readme-stats.vercel.app/api?username=Amit01-developer&show_icons=true&theme=tokyonight&hide_border=true" alt="Amit's GitHub Stats" height="170" />
+  </a>
+  <a href="https://github.com/Amit01-developer?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit01-developer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+  </a>
 </p>
 
 ---
