@@ -1,32 +1,27 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Amit%20Chaurasiya&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20Student%20%7C%20Aspiring%20Developer%20%7C%20Hackathon%20Enthusiast&descAlignY=58&descColor=d0d0ff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Amit%20Chaurasiya&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20Student%20%7C%20Aspiring%20Developer%20%7C%20Hackathon%20Enthusiast&descAlignY=58&descColor=d0d0ff" alt="header" />
 </div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amit-chaurasiya-575948330">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Amit01-developer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.hackerrank.com/profile/Mr_amit">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
-  <a href="https://learn.microsoft.com/en-in/users/amitchaurasiya-2798/">
-    <img src="https://img.shields.io/badge/Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <a href="https://learn.microsoft.com/en-in/users/amitchaurasiya-2798/?tab=tab-learning-paths#trophies-section">
+    <img src="https://img.shields.io/badge/Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn" />
   </a>
-  <!-- ✅ ADDED X -->
-  <a href="https://x.com/MrChaurasiya12">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Amit01-developer&style=for-the-badge&color=6a11cb&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Amit01-developer&style=for-the-badge&color=6a11cb&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
 
 <p align="center">
-  <!-- ✅ FIXED IMAGE -->
-  <img src="https://avatars.githubusercontent.com/Amit01-developer?v=4" width="300" />
+  <img src="https://github.com/user-attachments/assets/42574b31-49dc-4c63-995e-1a9b12713803" alt="Amit Chaurasiya" width="300" />
 </p>
 
 ---
@@ -35,11 +30,11 @@
 
 ```yaml
 name        : Amit Chaurasiya
-degree      : B.Tech — Information Technology
+degree      : B.Tech — Computer Science & Engineering
 interests   : Web Dev · Competitive Programming · Hackathons
-role        : Founder — HTL Community (HacktoLearn)
 motto       : "Bhulne ki bimaari, Practical Banda — always learning by doing!"
 open_to     : Collaborations · Projects · Hackathons
+```
 
 ---
 
@@ -114,7 +109,15 @@ open_to     : Collaborations · Projects · Hackathons
 
 ## 🏆 Achievements
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Amit01-developer&theme=tokyonight&no-frame=true&row=1&column=6" /> </p> <p align="center"> <a href="https://www.hackerrank.com/profile/Mr_amit"> <img src="https://img.shields.io/badge/HackerRank-Mr__amit-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /> </a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Amit01-developer&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/Mr_amit">
+    <img src="https://img.shields.io/badge/HackerRank-Mr__amit-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile" />
+  </a>
+</p>
 
 ---
 
@@ -143,10 +146,30 @@ open_to     : Collaborations · Projects · Hackathons
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Amit01-developer&show_icons=true&theme=tokyonight&hide_border=true" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit01-developer&layout=compact&theme=tokyonight&hide_border=true" height="160" /> </p> <p align="center"> <!-- ✅ FIXED STREAK --> <img src="https://streak-stats.demolab.com?user=Amit01-developer&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <!-- ✅ FIXED GRAPH --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amit01-developer&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amit01-developer&show_icons=true&theme=tokyonight&hide_border=true" alt="Amit's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit01-developer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amit01-developer&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amit01-developer&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
 
 ---
 
 ## 📫 Let's Connect
 
-<p align="center"> <a href="https://www.linkedin.com/in/amit-chaurasiya-575948330">💼 LinkedIn</a> · <a href="https://github.com/Amit01-developer">🐙 GitHub</a> · <a href="https://www.hackerrank.com/profile/Mr_amit">🏆 HackerRank</a> · <a href="https://learn.microsoft.com/en-in/users/amitchaurasiya-2798/">🎓 Microsoft Learn</a> · <!-- ✅ ADDED --> <a href="https://x.com/MrChaurasiya12">🐦 X</a> · <a href="https://htl-community-page.vercel.app/">🌐 HTL Community</a> </p> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" /> </div> ```
+<p align="center">
+  <a href="https://www.linkedin.com/in/amit-chaurasiya-575948330">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Amit01-developer">🐙 GitHub</a> &nbsp;·&nbsp;
+  <a href="https://www.hackerrank.com/profile/Mr_amit">🏆 HackerRank</a> &nbsp;·&nbsp;
+  <a href="https://learn.microsoft.com/en-in/users/amitchaurasiya-2798/">🎓 Microsoft Learn</a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" alt="footer" />
+</div>
