@@ -139,14 +139,24 @@ open_to     : Collaborations · Projects · Hackathons</code></pre>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amit01-developer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amit01-developer&show_icons=true&theme=tokyonight&hide_border=true" alt="Amit's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit01-developer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="41%" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Amit01-developer&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies" />
+</div>
+
+<br />
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Amit01-developer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Amit's GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit01-developer&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img height="170em" src="https://streak-stats.demolab.com/?user=Amit01-developer&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
