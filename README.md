@@ -156,6 +156,18 @@ open_to     : Collaborations · Projects · Hackathons
 ## 📊 GitHub Stats
 
 <p align="center">
+  <a href="https://github.com/Amit01-developer?tab=followers">
+    <img src="https://img.shields.io/github/followers/Amit01-developer?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/Amit01-developer?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories" />
+  </a>
+  <a href="https://github.com/Amit01-developer?tab=stars">
+    <img src="https://img.shields.io/github/stars/Amit01-developer?style=for-the-badge&logo=github&label=Total%20Stars" alt="GitHub Stars" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Amit01-developer?tab=achievements">
     <img src="https://github-profile-trophy.vercel.app/?username=Amit01-developer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
   </a>
@@ -168,6 +180,14 @@ open_to     : Collaborations · Projects · Hackathons
   <a href="https://github.com/Amit01-developer?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit01-developer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amit01-developer&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amit01-developer&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
